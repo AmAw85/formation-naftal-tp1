@@ -1,4 +1,5 @@
-name = 'mouloud'
+x,y = input('x') , input('y')
 
-name.capitalize()
+print (x,y)
+
 
